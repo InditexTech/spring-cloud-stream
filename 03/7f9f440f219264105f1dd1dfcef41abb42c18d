@@ -1,0 +1,16 @@
+binders/kafka-binder/spring-cloud-stream-binder-kafka/src/main/java/org/springframework/cloud/stream/binder/kafka/KafkaMessageChannelBinder.java
+  h_19ae496347280f 917-928
+binders/kafka-binder/spring-cloud-stream-binder-kafka/src/test/java/org/springframework/cloud/stream/binder/kafka/KafkaConfigurationTests.java
+  h_19ae496347280f 19,21,24-25,28,34,37,45,50-55,61,66-71,83-112,119
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "037f9f440f219264105f1dd1dfcef41abb42c18d",
+  "prompts": {},
+  "humans": {
+    "h_19ae496347280f": {
+      "author": "Fernando Blanch Calvete <fernandobc@ext.inditex.com>"
+    }
+  }
+}
