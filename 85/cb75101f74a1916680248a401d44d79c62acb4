@@ -1,0 +1,16 @@
+core/spring-cloud-stream/src/main/java/org/springframework/cloud/stream/binder/DefaultPollableMessageSource.java
+  h_19ae496347280f 183-184,201-204,208,227-233,251-276,466-475,477-484
+core/spring-cloud-stream/src/test/java/org/springframework/cloud/stream/binder/DefaultPollableMessageSourceTests.java
+  h_19ae496347280f 28,32-33,184-261
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "85cb75101f74a1916680248a401d44d79c62acb4",
+  "prompts": {},
+  "humans": {
+    "h_19ae496347280f": {
+      "author": "Fernando Blanch Calvete <fernandobc@ext.inditex.com>"
+    }
+  }
+}
